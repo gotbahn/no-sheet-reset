@@ -1,0 +1,6 @@
+.idea/
+dev/
+node_modules/
+.babelrc
+.gitignore
+gulpfile.babel.js
