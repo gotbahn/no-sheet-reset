@@ -1,6 +1,6 @@
 {
   "name": "no-sheet-reset",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Start from a scratch. Full CSS reset. No rewrites. No unpredictables. No shit in debugger.",
   "main": "no-sheet-reset.css",
   "author": {
