@@ -3,7 +3,7 @@
 
 Simply as hell. Still thinking that universal selector significantly affects your "styles perfomance", I have bad news for you.
 
-## Install (to be uptodate) or use
+## Install (to be uptodate)
 
 ### npm
 
@@ -16,6 +16,8 @@ npm install no-sheet-reset
 ```
 bower install no-sheet-reset
 ```
+
+## or use
 
 ### raw files
 
@@ -48,3 +50,12 @@ html {
   box-sizing: border-box;
 }
 ```
+
+## Contributing
+
+I'll check out your contribution if you have a clear and comprehensive description for your changes in pull request.
+
+
+## License
+
+MIT
