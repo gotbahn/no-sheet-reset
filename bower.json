@@ -1,6 +1,6 @@
 {
   "name": "no-sheet-reset",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Start from a scratch. Full CSS reset. No rewrites. No unpredictables. No shit in debugger.",
   "main": "no-sheet-reset.css",
   "author": {
@@ -8,7 +8,7 @@
     "email": "bogdanplieshka@gmail.com",
     "homepage": "http://godban.me"
   },
-  "license": "MIT",
+  "license": "UNLICENSED",
   "keywords": [
     "reset",
     "css"
@@ -25,6 +25,9 @@
     "dev",
     ".babelrc",
     ".gitignore",
+    ".npmignore",
+    ".sass-lint.yml",
+    ".travis.yml",
     "gulpfile.babel.js"
   ]
 }

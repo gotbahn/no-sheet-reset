@@ -3,4 +3,6 @@ dev/
 node_modules/
 .babelrc
 .gitignore
+.sass-lint.yml
+.travis.yml
 gulpfile.babel.js

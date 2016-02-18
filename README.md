@@ -3,6 +3,8 @@
 
 Simply as hell. Still thinking that universal selector significantly affects your "styles perfomance", I have bad news for you.
 
+[![Build Status](https://travis-ci.org/godban/no-sheet-reset.svg?branch=master)](https://travis-ci.org/godban/no-sheet-reset)
+
 ## Install (to be uptodate)
 
 ### npm
