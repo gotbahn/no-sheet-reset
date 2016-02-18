@@ -1,3 +1,8 @@
+/**
+ * https://github.com/godban/no-sheet-reset
+ * v0.1.0 | 18.02.2016
+ * License: none (public domain)
+*/
 *, *::after, *::before {
   box-sizing: inherit;
 }
@@ -16,4 +21,8 @@
 
 html {
   box-sizing: border-box;
+}
+
+li {
+  list-style-type: none;
 }
