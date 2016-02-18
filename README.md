@@ -51,6 +51,10 @@ bower install no-sheet-reset
 html {
   box-sizing: border-box;
 }
+
+li {
+  list-style-type: none;
+}
 ```
 
 ## Contributing
