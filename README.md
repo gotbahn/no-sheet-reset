@@ -55,6 +55,10 @@ html {
 li {
   list-style-type: none;
 }
+
+a {
+  text-decoration: inherit;
+}
 ```
 
 ## Contributing
