@@ -1,11 +1,13 @@
+[![npm](https://img.shields.io/npm/v/no-sheet-reset.svg?maxAge=2592000)](https://www.npmjs.com/package/no-sheet-reset)
+[![Bower](https://img.shields.io/bower/v/no-sheet-reset.svg?maxAge=2592000)](https://github.com/godban/no-sheet-reset)
+[![Travis](https://img.shields.io/travis/godban/no-sheet-reset.svg?maxAge=2592000)](https://travis-ci.org/godban/no-sheet-reset)
+[![npm](https://img.shields.io/npm/dt/no-sheet-reset.svg?maxAge=2592000)](https://www.npmjs.com/package/no-sheet-reset)
+[![npm](https://img.shields.io/npm/dm/no-sheet-reset.svg?maxAge=2592000)](https://www.npmjs.com/package/no-sheet-reset)
+
 # No Sheet Reset
-## Start from a scratch. Full CSS reset. No rewrites. No unpredictables. No shit in debugger.
+Start from a scratch. Full CSS reset. No rewrites. No unpredictables. No shit in debugger. Simply as hell.
 
-Simply as hell. Still thinking that universal selector significantly affects your "styles perfomance", I have bad news for you.
-
-[![Build Status](https://travis-ci.org/godban/no-sheet-reset.svg?branch=master)](https://travis-ci.org/godban/no-sheet-reset)
-
-## Install (to be uptodate)
+## Install
 
 ### npm
 
