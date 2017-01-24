@@ -5,7 +5,11 @@
 [![npm](https://img.shields.io/npm/dm/no-sheet-reset.svg?maxAge=2592000)](https://www.npmjs.com/package/no-sheet-reset)
 
 # No Sheet Reset
-Start from a scratch. Full CSS reset. No rewrites. No unpredictables. No shit in debugger. Simply as hell.
+Start from a scratch. Full CSS reset.
+
+**Please be aware and use it wisely**. No Sheet Reset clears almost everything, so your users would not be able to see tab highlights, validation errors, lists markers, etc. unless you provide it.
+
+It also change default box-sizing behaviour.
 
 ## Install
 
@@ -28,40 +32,6 @@ bower install no-sheet-reset
 - [no-sheet-reset.scss](https://raw.githubusercontent.com/godban/no-sheet-reset/master/dist/_no-sheet-reset.scss)
 - [no-sheet-reset.css](https://raw.githubusercontent.com/godban/no-sheet-reset/master/dist/no-sheet-reset.css)
 - [no-sheet-reset.min.css](https://raw.githubusercontent.com/godban/no-sheet-reset/master/dist/no-sheet-reset.min.css)
-
-
-### code
-
-
-```css
-*, *::after, *::before {
-  box-sizing: inherit;
-}
-
-* {
-  background: transparent;
-  border: 0;
-  color: inherit;
-  font: inherit;
-  margin: 0;
-  outline: 0;
-  padding: 0;
-  text-align: inherit;
-  vertical-align: baseline;
-}
-
-html {
-  box-sizing: border-box;
-}
-
-li {
-  list-style-type: none;
-}
-
-a {
-  text-decoration: inherit;
-}
-```
 
 ## Contributing
 
