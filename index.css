@@ -1,15 +1,15 @@
 /**
  * https://github.com/godban/no-sheet-reset
- * v0.2.0 | 24.01.2017
+ * v1.0.0 | 26.08.2017
  * License: MIT
 */
-
-%box-sizing--inherit {
+*,
+*::after,
+*::before {
   box-sizing: inherit;
 }
 
 * {
-  @extend %box-sizing--inherit;
   background: transparent;
   border: 0;
   box-shadow: none;
@@ -20,11 +20,6 @@
   padding: 0;
   text-align: inherit;
   vertical-align: baseline;
-
-  &::after,
-  &::before {
-    @extend %box-sizing--inherit;
-  }
 }
 
 html {
