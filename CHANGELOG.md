@@ -12,11 +12,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - StyleLint test
 
 ### Changed
-- [Breaking changes] Source path changed to `index.css`
+- **[Breaking changes]** Source path changed to `index.css`
 
 ### Removed
-- [Breaking changes] Sass versions was removed
-- [Breaking changes] Minified CSS version was removed
+- **[Breaking changes]** Sass versions was removed
+- **[Breaking changes]** Minified CSS version was removed
 - Bower support
 
 ## [0.2.0] - 24.01.2017
