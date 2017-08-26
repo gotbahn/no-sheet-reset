@@ -1,8 +1,7 @@
-.idea/
-dev/
 node_modules/
-.babelrc
 .gitignore
-.sass-lint.yml
+.stylelintrc
 .travis.yml
-gulpfile.babel.js
+CODE_OF_CONDUCT.md
+CODEOWNERS
+CONTRIBUTING.md
