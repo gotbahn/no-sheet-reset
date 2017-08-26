@@ -9,9 +9,10 @@
 
 Start from a scratch. Full CSS reset.
 
-**Please be aware and use it wisely**. No Sheet Reset clears almost everything, so your users would not be able to see tab highlights, validation errors, lists markers, etc. unless you provide it.
+**Please be aware of what you're doing and use it wisely**.
+No Sheet Reset clears almost all user agent styles. Your users would not be able to see tab highlights, validation errors, lists markers, etc. unless you provide it back.
 
-It also change default box-sizing behaviour.
+Changes default box-sizing behaviour.
 
 ## Install
 
@@ -21,25 +22,46 @@ It also change default box-sizing behaviour.
 npm install no-sheet-reset
 ```
 
-### bower
+## raw file
 
+[index.css](https://raw.githubusercontent.com/godban/no-sheet-reset/master/index.css)
+
+
+```css
+/**
+ * https://github.com/godban/no-sheet-reset
+ * v1.0.0 | 26.08.2017
+ * License: MIT
+*/
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+* {
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  color: inherit;
+  font: inherit;
+  margin: 0;
+  outline: 0;
+  padding: 0;
+  text-align: inherit;
+  vertical-align: baseline;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: inherit;
+}
 ```
-bower install no-sheet-reset
-```
-
-## or use
-
-### raw files
-
-- [no-sheet-reset.scss](https://raw.githubusercontent.com/godban/no-sheet-reset/master/dist/_no-sheet-reset.scss)
-- [no-sheet-reset.css](https://raw.githubusercontent.com/godban/no-sheet-reset/master/dist/no-sheet-reset.css)
-- [no-sheet-reset.min.css](https://raw.githubusercontent.com/godban/no-sheet-reset/master/dist/no-sheet-reset.min.css)
-
-## Contributing
-
-I'll check out your contribution if you have a clear and comprehensive description for your changes in pull request.
-
-
-## License
-
-MIT
