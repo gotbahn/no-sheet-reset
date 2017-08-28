@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/godban/no-sheet-reset#readme",
   "devDependencies": {
+    "greenkeeper-lockfile": "1.8.1",
     "stylelint": "8.0.0",
     "stylelint-config-recommended": "1.0.0"
   }
