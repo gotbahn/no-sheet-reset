@@ -1,28 +1,31 @@
 {
-  "name": "no-sheet-reset",
-  "version": "1.0.0",
-  "description": "Start from a scratch. Full CSS reset.",
-  "main": "index.css",
-  "scripts": {
-    "test": "stylelint '**/*.css'"
+  "author": {
+    "name": "Bogdan Plieshka",
+    "homepage": "http://godban.github.io"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/godban/no-sheet-reset.git"
+  "bugs": {
+    "url": "https://github.com/godban/no-sheet-reset/issues"
+  },
+  "description": "Start from a scratch. Full CSS reset.",
+  "devDependencies": {
+    "greenkeeper-lockfile": "1.8.1",
+    "stylelint": "8.0.0",
+    "stylelint-config-recommended": "1.0.0"
   },
   "keywords": [
     "reset",
     "css"
   ],
-  "author": "Bogdan Plieshka",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/godban/no-sheet-reset/issues"
+  "main": "index.css",
+  "name": "no-sheet-reset",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/godban/no-sheet-reset.git"
+  },
+  "scripts": {
+    "test": "stylelint '**/*.css'"
   },
   "homepage": "https://github.com/godban/no-sheet-reset#readme",
-  "devDependencies": {
-    "greenkeeper-lockfile": "1.8.1",
-    "stylelint": "8.0.0",
-    "stylelint-config-recommended": "1.0.0"
-  }
+  "version": "1.0.0"
 }
