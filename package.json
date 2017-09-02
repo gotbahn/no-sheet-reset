@@ -8,7 +8,6 @@
   },
   "description": "Start from a scratch. Full CSS reset.",
   "devDependencies": {
-    "greenkeeper-lockfile": "1.8.1",
     "stylelint": "8.0.0",
     "stylelint-config-recommended": "1.0.0"
   },
