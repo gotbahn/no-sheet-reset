@@ -8,7 +8,7 @@
   },
   "description": "Start from a scratch. Full CSS reset.",
   "devDependencies": {
-    "stylelint": "8.2.0",
+    "stylelint": "8.3.0",
     "stylelint-config-recommended": "1.0.0"
   },
   "keywords": [
