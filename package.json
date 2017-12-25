@@ -9,7 +9,7 @@
   "description": "Start from a scratch. Full CSS reset.",
   "devDependencies": {
     "stylelint": "8.4.0",
-    "stylelint-config-recommended": "1.0.0"
+    "stylelint-config-recommended": "2.0.1"
   },
   "keywords": [
     "reset",
