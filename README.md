@@ -29,7 +29,7 @@ npm install no-sheet-reset
 ```css
 /**
  * https://github.com/godban/no-sheet-reset
- * v1.0.0 | 26.08.2017
+ * v1.0.1 | 25.12.2017
  * License: MIT
 */
 

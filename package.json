@@ -6,7 +6,7 @@
   "bugs": {
     "url": "https://github.com/godban/no-sheet-reset/issues"
   },
-  "description": "Start from a scratch. Full CSS reset.",
+  "description": "Start from a scratch. Full CSS reset",
   "devDependencies": {
     "stylelint": "8.4.0",
     "stylelint-config-recommended": "2.0.1"
@@ -26,5 +26,5 @@
     "test": "stylelint '**/*.css'"
   },
   "homepage": "https://github.com/godban/no-sheet-reset#readme",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
