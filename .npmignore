@@ -1,8 +1,6 @@
+.github/
 node_modules/
-.idea
+.idea/
 .gitignore
 .stylelintrc
 .travis.yml
-CODE_OF_CONDUCT.md
-CODEOWNERS
-CONTRIBUTING.md
