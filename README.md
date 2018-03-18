@@ -18,7 +18,7 @@ Changes default box-sizing behaviour.
 ### npm
 
 ```
-npm install no-sheet-reset
+npm i no-sheet-reset --save
 ```
 
 ## raw file
