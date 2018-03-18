@@ -29,10 +29,9 @@ npm install no-sheet-reset
 ```css
 /**
  * https://github.com/godban/no-sheet-reset
- * v1.0.1 | 25.12.2017
+ * v2.0.0 | 18.03.2018
  * License: MIT
 */
-
 *,
 *::after,
 *::before {
@@ -48,7 +47,6 @@ npm install no-sheet-reset
   margin: 0;
   outline: 0;
   padding: 0;
-  text-align: inherit;
   vertical-align: baseline;
 }
 
@@ -62,5 +60,10 @@ li {
 
 a {
   text-decoration: inherit;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
 }
 ```
