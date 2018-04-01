@@ -24,7 +24,7 @@
         "test": "stylelint '**/*.css'"
     },
     "devDependencies": {
-        "stylelint": "9.1.3",
+        "stylelint": "9.2.0",
         "stylelint-config-recommended": "2.1.0"
     }
 }
